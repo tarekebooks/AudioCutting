@@ -357,8 +357,8 @@ Or provide an absolute path:
 
 ```python
 split_mp3(
-    input_file=r"F:\Workspace\training_workspace\AudioCutting\input.mp3",
-    output_dir="output",
+    input_file=r"resources\inputs\input.mp3",
+    output_dir="resources\outputs",
     duration="10m"
 )
 ```
