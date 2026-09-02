@@ -1,0 +1,4 @@
+.vscode
+.venv
+resources/output/*
+resources/input/*
